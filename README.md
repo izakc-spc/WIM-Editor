@@ -27,13 +27,12 @@ src\getFileExt.bat: SHA256: 6c4e48bf7a87e35d7dda477a95d55dde04d395dc5c4490909cb1
 - Credits: **Extracted from Windows made by Microsoft®**
 
 src\folderbrowse\folderbrowse.exe: SHA256: ddba12696f9543c83caa99e420c9b9a012c4dbed2b1be0d0952eac09861605dd
-- Credits: **Mon5termatt https://github.com/mon5termatt/medicat_installer/blob/main/bin/folderbrowse.exe**
+- Credits: **Mon5termatt [Download Folderbrowse](https://github.com/mon5termatt/medicat_installer/blob/main/bin/folderbrowse.exe)**
 
 (Official version 2.5.8) src\imgburn\ImgBurn.exe: SHA256: 02c74678128a9dfef58eab5abe269382c6b4862440c26c22cde7b83868f478f1
-- Credits: **Copyright (C) 2005 - 2021 LIGHTNING UK! from https://www.imgburn.com/**
 
 (Official version 2.5.8) src\imgburn\ImgBurnPreview.exe: SHA256: 363f61889adaf3ee4bb95bda5f6d7cb1d7c906b61c310c8e98ad02717c5203f9
-- Credits: **Copyright (C) 2005 - 2021 LIGHTNING UK! from https://www.imgburn.com/**
+- Credits: **Copyright (C) 2005 - 2021 LIGHTNING UK! from [Download ImageBurn](https://www.imgburn.com/)**
 
 (Official Version 2.56) src\oscdimg\oscdimg.exe: SHA256: ab9e161049d293b544961bfdf2d61244ade79376d6423df4f60bf9b147d3c78d
 - Credits: **Extracted from the Windows SDK from Microsoft®**
