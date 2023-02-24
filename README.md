@@ -35,4 +35,4 @@ src\folderbrowse\folderbrowse.exe: SHA256: ddba12696f9543c83caa99e420c9b9a012c4d
 - Credits: **Copyright (C) 2005 - 2021 LIGHTNING UK! from [Download ImageBurn](https://www.imgburn.com/)**
 
 (Official Version 2.56) src\oscdimg\oscdimg.exe: SHA256: ab9e161049d293b544961bfdf2d61244ade79376d6423df4f60bf9b147d3c78d
-- Credits: **Extracted from the Windows SDK from Microsoft®**
+- Credits: **Extracted from the Windows SDK from Microsoft® [Download Windows SDK](https://go.microsoft.com/fwlink/p/?linkid=2196241)**
