@@ -21,7 +21,7 @@ src\getFileExt.bat: SHA256: 6c4e48bf7a87e35d7dda477a95d55dde04d395dc5c4490909cb1
 (Official Version 22.01) src\x32\7z.exe: SHA256: 59cbfba941d3ac0238219daa11c93969489b40f1e8b38fabdb5805ac3dd72bfa
 
 (Official Version 22.01) src\x32\7z.dll: SHA256: ca8ab5aeef734f24a3c58bf10b3f0152c2ea1329b02d2730448693df563b4c6a
-- Credits: **Copyright (C) 2022 Igor Pavlov from https://www.7-zip.org/**
+- Credits: **Copyright (C) 2022 Igor Pavlov from [Download 7zip](https://www.7-zip.org/)**
 
 (Official Version 10.0.17120.1000) src\dism (folder): SHA256 checksum for data: b21c318a03700e212fee966411487a722fb32c2e7bde2bd141be35b7f0792d89-00000024
 - Credits: **Extracted from Windows made by Microsoft®**
