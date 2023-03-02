@@ -1,6 +1,6 @@
 # Windows Image Editor 
-## Version: A0.1
-### Tested Windows Editions: Windows 10 21H1/22H2
+## Version: Alpha 0.1
+### Tested Windows Editions: Windows 10 1903/21H1/22H2
 
 This script is made for editing Windows images and creating ISOs from them if wanted.
 
