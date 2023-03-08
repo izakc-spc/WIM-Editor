@@ -12,8 +12,6 @@ This script is made for editing Windows images and creating ISOs from them if wa
 
 Main.bat: SHA256: 6ad76d14f5137f46a03917e137514c12aeb4d1d45a8a4c13c4e1ebf1f0b4ebe7 **COPYRIGHT 2023 Izakc SPC (C)**
 
-src\getFileExt.bat: SHA256: 6c4e48bf7a87e35d7dda477a95d55dde04d395dc5c4490909cb184bcf6164df2 **COPYRIGHT 2023 Izakc SPC (C)**
-
 (Official Version 22.01) src\x64\7z.exe: SHA256: 254cf6411d38903b2440819f7e0a847f0cfee7f8096cfad9e90fea62f42b0c23
 
 (Official Version 22.01) src\x64\7z.dll: SHA256: 73578f14d50f747efa82527a503f1ad542f9db170e2901eddb54d6bce93fc00e
