@@ -1,6 +1,6 @@
 @echo off
 FOR /F "delims=" %%i IN ('"powershell -File .\src\getHash\getHash.ps1"') DO SET VAL=%%i
-if %VAL% EQU 0 (echo newest WIM-Editor version in directory! Starting WIM-Editor... & timeout 1 >nul /nobreak & start main.bat & exit)
+if %VAL% EQU 0 (echo newest WIM-Editor version in directory! Starting WIM-Editor... & timeout 3 >nul /nobreak & start main.bat & exit)
 if %VAL% EQU 1 (goto upDateMain)
 
 :upDateMain
